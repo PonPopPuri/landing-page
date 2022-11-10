@@ -21,6 +21,10 @@ a {
     font-size: 18px;
 }
 
+img {
+    border-radius: 10px;
+}
+
 .header {
     height: 100px;
 
@@ -74,10 +78,15 @@ a {
 }
 
 .hero {
+    font-size: 48px;
+    font-weight: bolder;
+    color:#F9FAF8;
     flex: 1;
 }
 
 .hero-subtext {
+    font-size: 18px;
+    color:#E5E7EB;
     padding-bottom: 10px;
     flex: 1;
     
@@ -94,20 +103,8 @@ a {
     align-self: flex-start;
 }
 
-.image-placeholder {
-    height: 200px;
-    width: 450px;
-    background-color: grey;
-    
-    align-self: center;
-}
 
-.hero {
-    font-size: 48px;
-    font-weight: bolder;
-    color: #F9FAF8;
-    margin: 0;
-}
+
 
 h2 {
     font-size: 36px;
@@ -173,6 +170,7 @@ h2 {
 }
 
 .text-container {
+    margin-top: -100px;
     height: 150px;
     width: 700px;
 }
