@@ -1,4 +1,4 @@
-My first landing page as part of a project assignment.
+Landing Page
 
 Credits, images:
 dog1: muhannad atalawi https://www.pexels.com/@hnoody93/
